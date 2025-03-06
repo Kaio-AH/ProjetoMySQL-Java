@@ -12,4 +12,4 @@ Esse projeto consiste em um sistema de gerenciamento de rede hoteleira desenvolv
 
 O sistema foi projetado para facilitar a gestão de redes hoteleiras, oferecendo funcionalidades como o cadastro, atualização e exclusão de hotéis, quartos e clientes. Além disso, permite o controle de reservas e disponibiliza relatórios detalhados para um acompanhamento eficiente da operação. A combinação de Java, MySQL e estruturas como XML e DON garante um sistema confiável, seguro e escalável.  
 
-Se precisar de ajustes ou mais detalhes, é só avisar! 😊
+
